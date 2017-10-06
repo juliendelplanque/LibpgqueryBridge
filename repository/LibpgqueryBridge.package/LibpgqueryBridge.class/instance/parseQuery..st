@@ -1,4 +1,3 @@
 parsing
 parseQuery: aString
-	self
-		flag: #todo; halt
+	^ self parse: aString usingScript: self postgreSQLParserPath
