@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "LibpgqueryBridge",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"postgreSQLParserPath",
+		"plpgsqlParserPath",
+		"tempDirectory"
+	],
+	"name" : "LibpgqueryBridge",
+	"type" : "normal"
+}
