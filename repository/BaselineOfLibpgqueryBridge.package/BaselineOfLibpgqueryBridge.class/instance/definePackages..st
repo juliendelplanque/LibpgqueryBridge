@@ -1,5 +1,5 @@
 baselines
 definePackages: spec
 	^ spec
-		package: 'LibpgQueryBridge';
+		package: 'LibpgqueryBridge';
 		yourself
